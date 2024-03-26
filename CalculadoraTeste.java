@@ -4,5 +4,8 @@ public class CalculadoraTeste {
         //testar soma
         double soma = calc.somar(2, 3);
         System.out.println(soma);
+        //testar subtracao
+        double sub = calc.subtrair(2, 3);
+        System.out.println(sub);
     }
 }
